@@ -1,0 +1,8 @@
+#content{
+	/*-webkit-box-flex: 7;*/
+	background-color: #ccc;
+	width: 740px;
+	float: right;
+	/*overflow: scroll;*/
+
+}
