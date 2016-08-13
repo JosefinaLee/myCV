@@ -24,7 +24,7 @@ ul{
 .banner{
 	/*height: 500px;*/
 	height: 100%;
-	background: url(../img/banner4.jpg) no-repeat;
+	background: url(../img/banner1.jpg) no-repeat;
 	/*background: url(../img/blk/02_slide.jpg) no-repeat;*/
 	background-size: cover;
     background-attachment: fixed;
@@ -50,18 +50,27 @@ ul{
     color: #fff;
 }
 #banner-content p{
-	margin: 30px 0;
+	margin: 40px 0;
 }
 #banner-content h1{
 	letter-spacing: 2px;
-    font-size: 3rem;
+    font-size: 3.8rem;
     font-weight: 600;
+    color: #eee;
+	margin: 20px 0;
+
+
+/*  font-size: 150px;
+    font-weight: 700;*/
+    /*color: #ffd504;*/
     font-family: "Poppins", sans-serif;
 }
 #banner-content span{
 	letter-spacing: 2px;
-    font-size: 2rem;
+    font-size: 1.7rem;
     font-weight: 200;
+    color: #D0C8C8;
+
 }
 /*Banner end//////////*/
 
@@ -80,7 +89,7 @@ ul{
 .test{
 	height: 700px;
 	background-color: #fff;
-	margin-bottom: 20px;
+	/*margin-bottom: 20px;*/
 }
 
 
