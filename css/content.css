@@ -46,3 +46,65 @@
     right: -15px;
     bottom: -15px;
 }
+#contact-content{
+    padding: 60px 50px;
+    /*background-color: #ccc;*/
+    /*border: 1px solid #000;*/
+
+}
+.contact-item{
+    box-sizing: border-box;
+    width: 50%;
+    margin-bottom: 35px;
+    float: left;
+    padding: 0 20px;
+
+}
+.contact-info{
+    width: 100%;
+    height: 50px;
+    outline: none;
+    border: none;
+    border-bottom: solid 1px #0C0C0C;
+    font-size: 0.9rem;
+    font-weight: 100;
+    line-height: 40px;
+    text-indent: 5px;
+}
+.contact-message{
+    box-sizing: border-box;
+    width: 100%;
+    float: left;
+    padding: 0 15px;
+
+}
+.contact-message .contact-info{
+    height: 120px;
+}
+.contact-submit{
+    color: #FFF;
+    background-color: #0C0C0C;
+    border: 0;
+    font-size: 0.7rem;
+    padding: 5px 16px;
+    margin: 40px 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

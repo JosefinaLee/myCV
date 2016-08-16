@@ -24,6 +24,7 @@
 }
 #nav-intro{
 	margin-bottom: 40px;
+	text-align: center;
 
 }
 #nav-intro p{
@@ -37,11 +38,13 @@
     font-weight: 600;
     color: #FFF;
     margin-bottom: 8px;
+
     /*text-transform: uppercase;*/
 }
 
 #nav-list{
 	font-size: 1rem;
+	padding-left: 20px;
 }
 #nav-list li{
 	margin-bottom: 22px;
