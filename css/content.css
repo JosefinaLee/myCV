@@ -70,7 +70,7 @@
     bottom: 0;
 }
 .contact-message:hover::after{
-    bottom: 2px;
+    bottom: 1px;
 }*/
 .contact-info{
     width: 100%;
