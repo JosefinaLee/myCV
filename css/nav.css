@@ -2,7 +2,7 @@
 #nav{
 	height: 600px;
 	width: 168px;
-	padding: 46px;
+	padding: 2.5rem;
 	background-color: #08070a;
 	/*float: left;*/
 	position: absolute;
@@ -18,9 +18,9 @@
 	width: 100%;*/
 	background-color: #ccc;
 	border-radius: 50%;
-	background-image: url(../img/me6.jpg);
+	background-image: url(../img/me.jpg);
 	background-size: cover;
-	margin-bottom: 30px;
+	margin-bottom: 2rem;
 }
 #nav-intro{
 	margin-bottom: 40px;
@@ -29,21 +29,25 @@
 }
 #nav-intro p{
 	margin-bottom: 20px;
-    font-size: 1.1rem;
+    font-size: 0.8rem;
     color: #777676;
 
 }
 #nav-intro h1{
-    font-size: 2rem;
+    font-size: 1.6rem;
     font-weight: 600;
     color: #FFF;
-    margin-bottom: 8px;
+    margin-bottom: 0.7rem;
 
     /*text-transform: uppercase;*/
 }
+#nav-intro h2 {
+	font-size: 1.2rem;
+
+}
 
 #nav-list{
-	font-size: 1rem;
+	font-size: 0.8rem;
 	padding-left: 20px;
 }
 #nav-list li{
